@@ -1,16 +1,12 @@
-### Hi there 👋
+ana.salomao.oliveira@escola.pr.gov.br
+nome:Ana Beatriz Salomao De Oliveira
+idade:16y
+signo:sagitario
+cep:Paranavai-PR-BR
+nascimento:20/12/2007
+cursos:pensamento computacional
+serie: 1 ano do ensino medio
+curso dos sonhos: veterinaria,dançarina
+hobie:jazz,ler,escutar musica
 
-<!--
-**anabsalomao007/anabsalomao007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
